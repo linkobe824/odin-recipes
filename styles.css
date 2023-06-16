@@ -1,0 +1,27 @@
+* {
+  font-family: 'Roboto', sans-serif;
+  background: #f0dddd;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(16, 109, 52);
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  float: none;
+}
+
+a {
+  padding: 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  font-size: 20px;
+}
