@@ -1,0 +1,27 @@
+.main-list {
+    text-align: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.main-list li {
+    display: inline-block;
+    padding: 20px;
+    margin: 10px auto;
+}
+
+
+.list-links {
+    padding: 20px;
+    background-color: rgb(188, 211, 202);
+    text-decoration: none;
+    border-radius: 8px;
+    box-shadow: 1px 2px 5px rgba(255, 0, 0, 0.2);
+    color: rgb(119, 64, 19);
+    font-weight: 600;
+}
+
+.list-links:hover, .list-links:active {
+    background-color: rgb(154, 224, 197);
+}
